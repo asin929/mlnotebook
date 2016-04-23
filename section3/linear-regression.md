@@ -170,7 +170,7 @@ $$
 \end{aligned}
 $$
 
- - 半正定(positive semi-definite)，即所有特征值为非负数：  
+ - 半正定(positive semi-definite)，即所有特征值为非负数：
 (以下$$\lambda$$为特征值，$$b$$为对应的特征向量)
 
 $$
